@@ -1,2 +1,2 @@
 #Student_crud operation <br>
-This Student crud operation perform thw task using spring boot framework
+This is  Student crud operation perform the task using spring boot framework.
